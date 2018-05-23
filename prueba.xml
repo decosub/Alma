@@ -2,11 +2,24 @@
 
 <item>
 <title>Musica Zen</title>        
-<urlsolve>plugin://plugin.video.youtube/playlist/PLkWfFdG-ENGGsjSZVxrj8VgWdYnpr2sMv</urlsolve>
+<url> url="plugin://plugin.video.youtube/playlist/PLkWfFdG-ENGGsjSZVxrj8VgWdYnpr2sMv",</url>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>prueba</title>        
+<url>plugin://plugin.video.youtube/playlist/=PLkWfFdG-ENGGsjSZVxrj8VgWdYnpr2sMv</url>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>prueba 2</title>        
+<url> https://www.youtube.com/playlist?list=PLkWfFdG-ENGH9N8EmRiYGnmvn2n_KWerZ"</url>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
