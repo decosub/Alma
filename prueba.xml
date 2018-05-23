@@ -2,21 +2,9 @@
 
 <item>
 <title>Musica Zen</title>        
-<url> url="plugin://plugin.video.youtube/playlist/PLkWfFdG-ENGGsjSZVxrj8VgWdYnpr2sMv",</url>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<urlsolve>https://www.youtube.com/watch?v=eX445QJ0fwE&list=PLkWfFdG-ENGGsjSZVxrj8VgWdYnpr2sMv</urlsolve>
+<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
 </item>
 
-<item>
-<title>prueba</title>        
-<url>plugin://plugin.video.youtube/playlist/=PLkWfFdG-ENGGsjSZVxrj8VgWdYnpr2sMv</url>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
-<item>
-<title>prueba 2</title>        
-<url>https://www.youtube.com/playlist?list=PLkWfFdG-ENGH9N8EmRiYGnmvn2n_KWerZ</url>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
