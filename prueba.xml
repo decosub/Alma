@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+ 
 <item>
-<title>Musica Zen</title>        
-<urlsolve>https://www.youtube.com/watch?v=eX445QJ0fwE&list=PLkWfFdG-ENGGsjSZVxrj8VgWdYnpr2sMv</urlsolve>
-<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+<title>Musica Zen</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/decosub/Alma/master/musica.xml</link>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/musica.xml</externallink>
 </item>
-
+ 
 
