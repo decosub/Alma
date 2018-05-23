@@ -2,8 +2,8 @@
 
 <item>
 <title>Musica Zen</title>        
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
+<urlsolve>https://raw.githubusercontent.com/decosub/Alma/master/pulse.py</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/decosub/Alma/master/pulse.py</thumbnail>
 <fanart></fanart>
 </item>
 
