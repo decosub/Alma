@@ -5,7 +5,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/decosub/Alma/master/peliculas.xml</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/peliculas.xml</externallink>
 </item>
  
 <item>
@@ -22,5 +22,13 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
+</item>
+ 
+<item>
+<title>Prueba</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/decosub/Alma/master/prueba.xml</link>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/prueba.xml</externallink>
 </item>
  
