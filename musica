@@ -10,7 +10,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=M3G2Jaxc6G4&amp;list=PLVsZWZlCMkpvrP8ctNMWlaVIFYcOTHnPa</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -28,7 +28,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=szL8QmWgCGo&amp;list=PLVsZWZlCMkpsnfs-XtlVH3S-9VmQn4yRs</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -46,7 +46,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=8bf3vpbA_s4&amp;list=PLVsZWZlCMkpsCGc2NXd5kq3Fl7qpAoyeg</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -64,7 +64,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=JO-wbaqc5Eo&amp;list=PLVsZWZlCMkpviZ9ystqK0Y7EPdgVeELPv</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -82,7 +82,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=huOyZLRQ2Rc&amp;list=PLVsZWZlCMkptGcjVCM_VN-Ay7QNVWgWO1</page>
              <cookieJar></cookieJar>
 </regex>
 
