@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>"Peliculas"
+<title>Peliculas.
 </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>"Documentales"
+<title>Documentales.
 </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>"Musica"
+<title>Musica.
 </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>"Crecimiento personal y autoayuda"
+<title>Crecimiento personal y autoayuda.
 </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -37,7 +37,7 @@
 </item>
 
 <item>
-<title>"Budismo Zen"
+<title>Tecnicas orientales.
 </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -46,7 +46,7 @@
 </item>
 
 <item>
-<title>"Alimentacion"
+<title>Alimentacion.
 </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -55,7 +55,16 @@
 </item>
 
 <item>
-<title>"Meditaciones"
+<title>Meditaciones.
+</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://www.dropbox.com/s/0pelp9gjts336wo/new%202.xml?dl=1</link>
+<externallink>https://www.dropbox.com/s/0pelp9gjts336wo/new%202.xml?dl=1</externallink>
+</item>
+
+<item>
+<title>Infantil.
 </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
