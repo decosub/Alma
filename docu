@@ -1,0 +1,71 @@
+<item>
+<title>Conferencias.</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
+						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Cientificos.</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
+						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Vida despues de la muerte.</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
+						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>HO'oponopono.</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
+						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
