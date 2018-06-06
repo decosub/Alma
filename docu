@@ -10,7 +10,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=kNadW15PL1g&amp;list=PLVsZWZlCMkpuMTkvmgb1POorZLwc1nOtZ</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -28,7 +28,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=BwzKu3ABT38&amp;list=PLVsZWZlCMkpsnBrMBsDdz9ZGhByZkMgtT</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -46,7 +46,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=bDodpemrnSw&amp;list=PLVsZWZlCMkpvmiu9xCl5NI_RUvoDE_66h</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -64,7 +64,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=belXOd9MEJ4&amp;list=PLVsZWZlCMkpst5n-gvAhcTI8x1L_Bg9UK</page>
              <cookieJar></cookieJar>
 </regex>
 
