@@ -1,5 +1,7 @@
+</item>
+
 <item>
-<title>Ciencia ficcion.</title>
+<title>Espirituales.</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -7,7 +9,7 @@
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                         <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+			<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=pfPu15wXoFI&amp;list=PLVsZWZlCMkpsaw8QnWkU3AqIlgFFjMJHE</page>
