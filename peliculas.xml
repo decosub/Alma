@@ -10,7 +10,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=pfPu15wXoFI&list=PLVsZWZlCMkpsaw8QnWkU3AqIlgFFjMJHE</page>
+            <page>https://www.youtube.com/watch?v=pfPu15wXoFI&amp;list=PLVsZWZlCMkpsaw8QnWkU3AqIlgFFjMJHE</page>
              <cookieJar></cookieJar>
 </regex>
 
