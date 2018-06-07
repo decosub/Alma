@@ -1,5 +1,7 @@
 <item>
 <title>Meditaciones Guiadas.</title>
+                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -7,7 +9,7 @@
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                         <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=JO-wbaqc5Eo&amp;list=PLVsZWZlCMkpviZ9ystqK0Y7EPdgVeELPv</page>
@@ -18,6 +20,8 @@
 
 <item>
 <title>Documentales.</title>
+                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -36,6 +40,8 @@
 
 <item>
 <title>Mindfulness (meditacion consciente).</title>
+                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
