@@ -82,7 +82,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=47wy3_jlRXc&amp;list=0S7xWexc_oE</page>
+            <page>https://www.youtube.com/watch?v=47wy3_jlRXc&amp;list=PLVsZWZlCMkpsfLuOH-PNyf5auR0bDvdWd</page>
              <cookieJar></cookieJar>
 </regex>
 
