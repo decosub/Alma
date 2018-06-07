@@ -10,7 +10,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=aHO94GmgQbc&amp;list=PLVsZWZlCMkpudAq37giQ10nOCF6R2kiNq</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -28,14 +28,14 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=SdA2SsaRu_E&amp;list=PLVsZWZlCMkpvoiljQMVos-87UldZaKsvf</page>
              <cookieJar></cookieJar>
 </regex>
 
 </item>
 
 <item>
-<title>Yoga.</title>
+<title>Yoga infantil.</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -46,7 +46,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=3bjggxDiXyk&amp;list=PLVsZWZlCMkpv_EUG5X8S8QpjhfNK9skg3</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -64,7 +64,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=QcQNIYS-VAc&amp;list=PLVsZWZlCMkpu630U2yBLtEw2HiIU78b0s</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -82,7 +82,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+           <page>https://www.youtube.com/watch?v=vtn-c6nPjE4&amp;list=PLVsZWZlCMkptc0Dej9LMlfLC5hRI-wJUE</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -100,7 +100,7 @@
 						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=k39--Y42jEE&amp;list=PLpdPW6z1clkde_CTcIa0xo6-Tadtbiiap</page>
+            <page>https://www.youtube.com/watch?v=v_75ES7x67A&amp;list=PLVsZWZlCMkpt1RIkDBJ5VF0iDkYDUZgM5</page>
              <cookieJar></cookieJar>
 </regex> 
 
