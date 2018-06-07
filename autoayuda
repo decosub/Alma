@@ -1,5 +1,7 @@
 <item>
 <title>Documentales.</title>
+	<thumbnail>https://i.imgur.com/Kt80aMw.jpg</thumbnail>
+	<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -18,6 +20,8 @@
 
 <item>
 <title>Hipnosis.</title>
+	<thumbnail>https://i.imgur.com/Kt80aMw.jpg</thumbnail>
+	<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -36,6 +40,8 @@
 
 <item>
 <title>Metafisica</title>
+	<thumbnail>https://i.imgur.com/Kt80aMw.jpg</thumbnail>
+	<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -54,6 +60,8 @@
 
 <item>
 <title>P.N.L.: Programacion neurolinguistica</title>
+	<thumbnail>https://i.imgur.com/Kt80aMw.jpg</thumbnail>
+	<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
