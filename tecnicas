@@ -1,12 +1,14 @@
 <item>
 <title>Chi kung.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -18,6 +20,8 @@
 
 <item>
 <title>Tai-chi.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -36,6 +40,8 @@
 
 <item>
 <title>Yoga.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -54,6 +60,8 @@
 
 <item>
 <title>Pilates.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -72,6 +80,8 @@
 
 <item>
 <title>Reiki.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -91,6 +101,8 @@
 
 <item>
 <title>Zen.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -109,6 +121,8 @@
 
 <item>
 <title>Mindfulness (meditacion consciente).</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -127,6 +141,8 @@
 
 <item>
 <title>Budismo.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -145,6 +161,8 @@
 
 <item>
 <title>Taoismo.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -163,6 +181,8 @@
 
 <item>
 <title>Medicina Tradicional China.</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
