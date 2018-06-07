@@ -1,9 +1,10 @@
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
-<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <item>
 <title>Alimentacion consciente.</title>
+<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
-	
+<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
