@@ -22,6 +22,8 @@
 
 <item>
 <title>Ayurveda.</title>
+<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -40,6 +42,8 @@
 
 <item>
 <title>Fitoterapia y naturopatia.</title>
+<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -58,6 +62,8 @@
 
 <item>
 <title>Macrobiotica</title>
+<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -76,6 +82,8 @@
 
 <item>
 <title>Vegano</title>
+<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -94,6 +102,8 @@
 
 <item>
 <title>De compras.</title>
+<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
