@@ -1,5 +1,7 @@
 <item>
 <title>Relajante.</title>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -18,6 +20,8 @@
 
 <item>
 <title>New age.</title>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -36,6 +40,8 @@
 
 <item>
 <title>Mantras</title>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -54,6 +60,8 @@
 
 <item>
 <title>Meditaciones Guiadas</title>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -72,6 +80,8 @@
 
 <item>
 <title>Audiolibros</title>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
