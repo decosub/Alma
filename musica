@@ -1,15 +1,15 @@
 <item>
 <title>Relajante.</title>
-                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+               <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+                		        <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+					<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=M3G2Jaxc6G4&amp;list=PLVsZWZlCMkpvrP8ctNMWlaVIFYcOTHnPa</page>
@@ -20,16 +20,16 @@
 
 <item>
 <title>New age.</title>
-                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
-			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
- 						<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=szL8QmWgCGo&amp;list=PLVsZWZlCMkpsnfs-XtlVH3S-9VmQn4yRs</page>
@@ -40,8 +40,8 @@
 
 <item>
 <title>Mantras</title>
-					  <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -60,8 +60,8 @@
 
 <item>
 <title>Meditaciones Guiadas</title>
-					  <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -80,8 +80,8 @@
 
 <item>
 <title>Audiolibros</title>
-					  <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -100,8 +100,8 @@
 
 <item>
 <title>Cuencos Tibetanos</title>
-					  <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
