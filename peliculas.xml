@@ -7,7 +7,7 @@
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                         <thumbnail>https://i.imgur.com/toQ14gm.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
 	    <page>https://www.youtube.com/watch?v=GsygApF96TQ&amp;list=PLVsZWZlCMkpu5uMxGFXkFfiIbTCkgLc5E</page>
@@ -25,7 +25,7 @@
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                         <thumbnail>https://i.imgur.com/toQ14gm.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=kIayVwFP7no&amp;list=PLVsZWZlCMkps23OZ0wEloVy28bXj3MFoo</page>
