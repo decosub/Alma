@@ -6,8 +6,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=M3G2Jaxc6G4&amp;list=PLVsZWZlCMkpvrP8ctNMWlaVIFYcOTHnPa</page>
@@ -24,8 +24,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=szL8QmWgCGo&amp;list=PLVsZWZlCMkpsnfs-XtlVH3S-9VmQn4yRs</page>
@@ -42,8 +42,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=8bf3vpbA_s4&amp;list=PLVsZWZlCMkpsCGc2NXd5kq3Fl7qpAoyeg</page>
@@ -60,8 +60,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+                       <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=JO-wbaqc5Eo&amp;list=PLVsZWZlCMkpviZ9ystqK0Y7EPdgVeELPv</page>
@@ -78,8 +78,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>http://i.imgur.com/oWyDQSv.jpg</thumbnail>
-						<fanart>http://images6.alphacoders.com/439/439710.jpg</fanart>
+                       <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=huOyZLRQ2Rc&amp;list=PLVsZWZlCMkptGcjVCM_VN-Ay7QNVWgWO1</page>
