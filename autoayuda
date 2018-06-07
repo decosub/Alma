@@ -53,7 +53,7 @@
 </item>
 
 <item>
-<title>P.N.L. (Programacion neurolinguistica</title>
+<title>P.N.L.: Programacion neurolinguistica</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
