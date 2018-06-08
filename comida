@@ -1,5 +1,5 @@
 <item>
-<title>Alimentacion consciente.</title>
+<title>Alimentacion consciente</title>
 <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>Ayurveda.</title>
+<title>Ayurveda</title>
 <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>Fitoterapia y naturopatia.</title>
+<title>Fitoterapia y naturopatia</title>
 <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -101,7 +101,7 @@
 </item>
 
 <item>
-<title>De compras.</title>
+<title>De compras....</title>
 <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -118,4 +118,11 @@
              <cookieJar></cookieJar>
 </regex>
 
+</item>
+<item>
+<title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
+<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
 </item>
