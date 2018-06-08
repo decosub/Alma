@@ -41,7 +41,7 @@
 <item>
 <title>Mindfulness (meditacion consciente)</title>
                         <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
-			<fanart>https://i.imgur.com/LGSIPyH.jpg</fanart>
+				<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
