@@ -8,11 +8,11 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=ydORW-IH0EY&amp;list=1&list=RDQMbR8BWnKKoHs</page>
+            <page>https://www.youtube.com/watch?v=xmP0FTJ7ebc&amp;list=PLagzEjuKqarpKgW9OnWdJgyQOeol3OWG6</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -28,18 +28,18 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+                      <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=5d3mbHNRgxY&amp;list=PL6gE8zxBgNM2Hpfeq_1_Z2ZctMUTINXX1</page>
+            <page>https://www.youtube.com/watch?v=5d3mbHNRgxY&amp;list=PLagzEjuKqarq5y5k7-C1XKDwCFHoWvdDG</page>
              <cookieJar></cookieJar>
 </regex>
 
 </item>
 
 <item>
-<title>Yoga para embarazadas</title>
+<title>Yoga para Embarazadas</title>
                        			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -53,26 +53,6 @@
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=X7820WDYeKI&amp;list=PLagzEjuKqarr6h04NkrCi1MRU3Abjf8xh</page>
-             <cookieJar></cookieJar>
-</regex>
-
-</item>
-
-<item>
-<title>Mudras</title>
-                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=VYNlHYJfdPYY&amp;list=PLVsZWZlCMkpsc-RiDLGa3PTU18VZyZuWe</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -97,6 +77,29 @@
 </regex>
 
 </item>
+
+
+<item>
+<title>Mudras</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                       <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=VYNlHYJfdPY&amp;list=PLVsZWZlCMkpsc-RiDLGa3PTU18VZyZuWe</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
 <item>
 <title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
 <thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
