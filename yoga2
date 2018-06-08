@@ -1,0 +1,99 @@
+<item>
+<title>Hata Yoga</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ydORW-IH0EY&amp;list=1&list=RDQMbR8BWnKKoHs</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Kundalini Yoga</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=5d3mbHNRgxY&amp;list=1&list=PL6gE8zxBgNM2Hpfeq_1_Z2ZctMUTINXX1</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Yoga para embarazadas</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=X7820WDYeKI&amp;list=1&list=PLagzEjuKqarr6h04NkrCi1MRU3Abjf8xh</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Mudras</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=VYNlHYJfdPYY&amp;list=1&list=PLVsZWZlCMkpsc-RiDLGa3PTU18VZyZuWe</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Pranayamas</title>
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=rRJ7ImuL_HM&amp;list=1&list=PLVsZWZlCMkpslMLHgjIiCGM9SlM4YlsVY</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
