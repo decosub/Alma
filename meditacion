@@ -58,6 +58,46 @@
 
 </item>
 <item>
+<title>Tecnicas de Respiracion</title>
+                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                          <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=I6fd7TxIIzk&amp;list=PLVsZWZlCMkpuFNK5-rE0-knYMIwVrAHmm</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Mudras</title>
+                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                          <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=VYNlHYJfdPY&amp;list=PLVsZWZlCMkpsc-RiDLGa3PTU18VZyZuWe</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
 <title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
 <thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
