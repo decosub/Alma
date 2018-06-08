@@ -17,7 +17,6 @@
 </regex>
 
 </item>
-
 <item>
 <title>New age</title>
 		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
@@ -91,6 +90,44 @@
             <page>https://www.youtube.com/watch?v=eZwgFioTpZY&amp;list=PLYAqK6pCIw0xDaJuYMZ6h8GPGVEyCioxz</page>
              <cookieJar></cookieJar>
 </regex>
+</item>
+<item>
+<title>Musica religiosa</title>
+               <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                		        <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+					<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=1sfMYn3YcT8&amp;list=PLOz9Idkk5jA0oAj7ZEpQSfFkufU7RTtyN</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+<item>
+<title>Cuencos Tibetanos</title>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+					  <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=jG253f8CKfM&amp;list=PLVsZWZlCMkptq4RHj6ECMCUG-eeiyclnr</page>
+             <cookieJar></cookieJar>
+</regex>
+
 </item>
 
 <item>
