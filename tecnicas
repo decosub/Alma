@@ -200,8 +200,8 @@
 
 </item>
 <item>
-<title>[COLOR lime]Volver al menu...[/COLOR]</title>        
-<urlresolve>https://raw.githubusercontent.com/decosub/Alma/master/index.xml</urlsolve>
+<title>[COLOR lime]Volver al menu...[/COLOR]</title>  
+<urlsolve>https://raw.githubusercontent.com/decosub/Alma/master/index.xml</urlsolve>
 <thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 </item>
