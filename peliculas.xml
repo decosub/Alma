@@ -1,5 +1,5 @@
 <item>
-<title>Espirituales.</title>
+<title>Espirituales</title>
 	 <thumbnail>https://i.imgur.com/toQ14gm.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>Lecciones de vida.</title>
+<title>Lecciones de vida</title>
 	 <thumbnail>https://i.imgur.com/toQ14gm.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -36,4 +36,10 @@
              <cookieJar></cookieJar>
 </regex>
 
+</item>
+<item>
+<title>[COLOR lime]Volver al menu principal ...[/COLOR]</title>  
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/index.xml</externallink>
+<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 </item>
