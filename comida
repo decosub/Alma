@@ -62,7 +62,7 @@
 
 <item>
 <title>Macrobiotica</title>
-<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/Q5W5xX4.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -70,7 +70,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/Q5W5xX4.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -102,7 +102,7 @@
 
 <item>
 <title>De compras...(Etiquetado y recomendaciones)</title>
-<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/wRJnRH3.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -110,7 +110,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                       <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+                       <thumbnail>https://i.imgur.com/wRJnRH3.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
