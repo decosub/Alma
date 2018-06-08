@@ -1,16 +1,16 @@
 <item>
 <title>Alimentacion consciente</title>
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+                       <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -22,7 +22,7 @@
 
 <item>
 <title>Ayurveda</title>
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -30,7 +30,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+                     <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -42,7 +42,7 @@
 
 <item>
 <title>Fitoterapia y naturopatia</title>
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -50,7 +50,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                         <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -62,7 +62,7 @@
 
 <item>
 <title>Macrobiotica</title>
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -70,7 +70,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -82,7 +82,7 @@
 
 <item>
 <title>Vegano</title>
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -90,7 +90,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                         <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+                         <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -102,7 +102,7 @@
 
 <item>
 <title>De compras...(Etiquetado y recomendaciones)</title>
-<thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -110,7 +110,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                       <thumbnail>https://i.imgur.com/biuI3Ct.jpg</thumbnail>
+                       <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
