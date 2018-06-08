@@ -40,23 +40,12 @@
 
 <item>
 <title>Yoga</title>
-                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
+ <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=sKgAjzlkKH8&amp;list=PLVsZWZlCMkps8evImuJXVG_9GEZOyfNCC</page>
-             <cookieJar></cookieJar>
-</regex>
-
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/yoga2</externallink>
 </item>
+ 
 
 <item>
 <title>Pilates</title>
@@ -207,3 +196,4 @@
 </item>
  
 
+https://raw.githubusercontent.com/decosub/Alma/master/yoga2
