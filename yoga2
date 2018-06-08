@@ -8,7 +8,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                       			 <thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
+                       			                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -19,8 +19,8 @@
 </item>
 
 <item>
-<title>Kundalini Yoga</title>
-                       			 <thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
+<title>Kundalini Yoga</title>                       			
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -28,7 +28,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                      <thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
+                                          			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -48,7 +48,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                       <thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
+                     
+                       			 <thumbnail>https://i.imgur.com/lbT9Bm1.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
