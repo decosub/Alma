@@ -1,0 +1,49 @@
+<item>
+<title>Documentales y Conferencias </title>
+                       			<thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
+					<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                       			        	<thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=UzRgUjQeo6Q&amp;list=PLVsZWZlCMkpvMS8y3dJo9AvSA2CBMvnJ7</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Meditaciones Guiadas</title>                       			
+                       					<thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                                          		<thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=EasWz6z9sAE&amp;list=PLVsZWZlCMkpvMS8y3dJo9AvSA2CBMvnJ7</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
+<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
+</item>
+ 
