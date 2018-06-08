@@ -1,5 +1,5 @@
 <item>
-<title>Documentales y conferencias.</title>
+<title>Documentales y conferencias</title>
                         <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>Meditaciones.</title>
+<title>Meditaciones</title>
                         <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>Yoga infantil.</title>
+<title>Yoga infantil</title>
                         <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>Mantras.</title>
+<title>Mantras Infantiles</title>
                         <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>Cuentos espirituales.</title>
+<title>Cuentos espirituales</title>
                         <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -116,4 +116,11 @@
              <cookieJar></cookieJar>
 </regex> 
 
+</item>
+<item>
+<title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
+<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
 </item>
