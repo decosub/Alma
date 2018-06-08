@@ -1,0 +1,94 @@
+<item>
+<title>Musica relajante</title>
+               <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                		        <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+					<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=M3G2Jaxc6G4&amp;list=PLVsZWZlCMkpvrP8ctNMWlaVIFYcOTHnPa</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>New age</title>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=szL8QmWgCGo&amp;list=PLVsZWZlCMkpsnfs-XtlVH3S-9VmQn4yRs</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+<item>
+<title>Musica Celta</title>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=rhBAPtQOE8o&amp;list=PLVsZWZlCMkpt-90r5fT5XxlvLb_A_SaNY</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Indios Nativos Americanos</title>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=vKqJe0t263A&amp;list=PLVsZWZlCMkpuxCwyEKqRR-NAz4R-Ohwp-</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+<item>
+<title>Musica Canalizada</title>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=eZwgFioTpZY&amp;list=PLYAqK6pCIw0xDaJuYMZ6h8GPGVEyCioxz</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
