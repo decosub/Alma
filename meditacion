@@ -8,7 +8,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -41,7 +41,7 @@
 <item>
 <title>Mindfulness (meditacion consciente)</title>
                         <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
-			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+			<fanart>https://i.imgur.com/LGSIPyH.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
