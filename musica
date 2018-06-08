@@ -8,7 +8,7 @@
 
 <item>
 <title>Mantras</title>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/Et58IYk.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -16,7 +16,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-					  <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+					 <thumbnail>https://i.imgur.com/Et58IYk.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -29,7 +29,7 @@
 
 <item>
 <title>Meditaciones Guiadas</title>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -37,7 +37,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-					  <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+					  <thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -49,7 +49,7 @@
 
 <item>
 <title>Audiolibros</title>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/zE48V6y.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -57,7 +57,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/2TFh4CK.jpg>
+                        <thumbnail>https://i.imgur.com/zE48V6y.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
