@@ -1,5 +1,5 @@
 <item>
-<title>Meditaciones Guiadas.</title>
+<title>Meditaciones Guiadas</title>
                         <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>Documentales.</title>
+<title>Documentales</title>
                         <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>Mindfulness (meditacion consciente).</title>
+<title>Mindfulness (meditacion consciente)</title>
                         <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -56,4 +56,11 @@
              <cookieJar></cookieJar>
 </regex>
 
+</item>
+<item>
+<title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
+<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
 </item>
