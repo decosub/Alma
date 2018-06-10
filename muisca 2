@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 <title>Musica para meditar</title>
-               <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+               <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -20,7 +20,7 @@
 </item>
 <item>
 <title>New age</title>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/fqkXCut.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -39,7 +39,7 @@
 </item>
 <item>
 <title>Musica Celta</title>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/Yp3geYq.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -47,7 +47,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/Yp3geYq.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -58,7 +58,7 @@
 
 <item>
 <title>Indios Nativos Americanos</title>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/LAjDL7r.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -66,7 +66,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/LAjDL7r.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -76,7 +76,7 @@
 </item>
 <item>
 <title>Musica Canalizada</title>
-		<thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+		<thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -95,7 +95,7 @@
 
 <item>
 <title>Musica religiosa</title>
-               <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+               <thumbnail>https://i.imgur.com/Et58IYk.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -115,7 +115,7 @@
 
 <item>
 <title>Musica Clasica para relajarse </title>
-               <thumbnail>https://i.imgur.com/2TFh4CK.jpg</thumbnail>
+               <thumbnail>https://i.imgur.com/J0EhQd4.jpg</thumbnail>
 		<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -123,7 +123,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                		        <thumbnail>https://i.imgur.com/fqkXCut.jpg</thumbnail>
+                		        <thumbnail>https://i.imgur.com/J0EhQd4.jpg</thumbnail>
 					<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -154,7 +154,7 @@
 
 <item>
 <title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
-<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/gtyKDgz.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
