@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 <title>Meditaciones Guiadas</title>
-                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/zE48V6y.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -9,7 +9,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/zE48V6y.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -21,7 +21,7 @@
 
 <item>
 <title>Documentales</title>
-                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -29,7 +29,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                         <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                         <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -41,7 +41,7 @@
 
 <item>
 <title>Mindfulness (meditacion consciente)</title>
-                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 				<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -49,7 +49,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                          <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                          <thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -60,7 +60,7 @@
 </item>
 <item>
 <title>Tecnicas de Respiracion</title>
-                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/7TUhlI7.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -68,7 +68,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                          <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                          <thumbnail>https://i.imgur.com/7TUhlI7.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -80,7 +80,7 @@
 
 <item>
 <title>Mudras</title>
-                        <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/Et58IYk.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -88,7 +88,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                          <thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
+                          <thumbnail>https://i.imgur.com/Et58IYk.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -100,8 +100,9 @@
 
 <item>
 <title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
-<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/gtyKDgz.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
 </item>
+
