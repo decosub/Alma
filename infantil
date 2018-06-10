@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 <title>Documentales y conferencias</title>
-                        <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                         <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -9,7 +9,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -21,7 +21,7 @@
 
 <item>
 <title>Meditaciones</title>
-                        <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -29,7 +29,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                           <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                           <thumbnail>https://i.imgur.com/LGSIPyH.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -41,7 +41,7 @@
 
 <item>
 <title>Yoga infantil</title>
-                        <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -49,7 +49,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                           <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                           <thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -81,7 +81,7 @@
 
 <item>
 <title>Mantras Infantiles</title>
-                        <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/Et58IYk.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -89,7 +89,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/UCdStPh.jpg</thumbnail>
+                       <thumbnail>https://i.imgur.com/Et58IYk.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
