@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 <title>Alimentacion consciente</title>
-<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/q9wQcaM.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
@@ -11,7 +11,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                       <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+                       <thumbnail>https://i.imgur.com/q9wQcaM.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -43,7 +43,7 @@
 
 <item>
 <title>Fitoterapia y naturopatia</title>
-<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/Mn6CgbN.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -51,7 +51,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/Mn6CgbN.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -83,7 +83,7 @@
 
 <item>
 <title>Vegano</title>
-<thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/cA8tgqy.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -91,7 +91,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                         <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
+                         <thumbnail>https://i.imgur.com/cA8tgqy.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -122,7 +122,7 @@
 </item>
 <item>
 <title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
-<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/gtyKDgz.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
