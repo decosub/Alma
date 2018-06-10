@@ -21,7 +21,7 @@
 
 <item>
 <title>Cientificos</title>
-  <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -29,7 +29,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -41,7 +41,7 @@
 
 <item>
 <title>Vida despues de la muerte</title>
-  <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/GeGENMX.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -61,7 +61,7 @@
 
 <item>
 <title>HO'oponopono</title>
-  <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/JbDMkJE.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -69,7 +69,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/JbDMkJE.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -81,7 +81,7 @@
 
 <item>
 <title>Medicina Tradicional China</title>
-  <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -89,7 +89,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/knkeGcj.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -100,7 +100,7 @@
 </item>
 <item>
 <title>[COLOR lime]Volver al menu principal...[/COLOR]</title>
-<thumbnail>https://i.imgur.com/LGw1MVE.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/gtyKDgz.jpg</thumbnail>
 <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
