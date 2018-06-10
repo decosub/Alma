@@ -21,7 +21,7 @@
 
 <item>
 <title>Hipnosis</title>
-	<thumbnail>https://i.imgur.com/JNrKkSt.jpg</thumbnail>
+	<thumbnail>https://i.imgur.com/WoNXdCX.jpg</thumbnail>
 	<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -29,7 +29,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                      <thumbnail>https://i.imgur.com/JNrKkSt.jpg</thumbnail>
+                      <thumbnail>https://i.imgur.com/WoNXdCX.jpg</thumbnail>
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
