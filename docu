@@ -92,7 +92,7 @@
 						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=lSfsF7Wux044&amp;list=PLVsZWZlCMkpsy18cWSx7d5U-iGQ8pnILH</page>
+            <page>https://www.youtube.com/watch?v=lSfsF7Wux04&amp;list=PLVsZWZlCMkpuD1mNeTAgzNPGH-ByKG1tf</page>
              <cookieJar></cookieJar>
 </regex>
 
