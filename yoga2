@@ -59,6 +59,26 @@
 </item>
 
 <item>
+<title>Yoga Ramiro Calle</title>
+                       				<thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                                           	<thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
+						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=2at_83SezS8&amp;list=PLmRfYsslShmKCENWWSKYTJBRDVHwCzfGY</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+<item>
 <title>Pranayamas</title>
                        			<thumbnail>https://i.imgur.com/kCagMtK.jpg</thumbnail>
 					<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
