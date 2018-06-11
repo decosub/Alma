@@ -59,25 +59,6 @@
 
 </item>
 
-<item>
-<title>HO'oponopono</title>
-  <thumbnail>https://i.imgur.com/JbDMkJE.jpg</thumbnail>
-			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/JbDMkJE.jpg</thumbnail>
-						<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=belXOd9MEJ4&amp;list=PLVsZWZlCMkpst5n-gvAhcTI8x1L_Bg9UK</page>
-             <cookieJar></cookieJar>
-</regex>
-
-</item>
 
 <item>
 <title>Medicina Tradicional China</title>
