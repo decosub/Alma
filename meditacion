@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 <title>Meditaciones Guiadas</title>
-                        <thumbnail>https://i.imgur.com/zE48V6y.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/XFpBIRf.jpg</thumbnail>
 			<fanart>https://i.imgur.com/8Glc58b.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -9,7 +9,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                        <thumbnail>https://i.imgur.com/8Glc58b.jpg</thumbnail>
+                        <thumbnail>https://i.imgur.com/zE48V6y.jpg</thumbnail>
 			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
