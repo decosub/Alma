@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR white][B] ADDONS DEL MISMO CREADOR:[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+  <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
+ <info>[COLOR white][B]Otros Addons de Contenido Tematico del Mismo creador...[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR red][B] Importante tener instalado Repositorio Decosub...[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+  <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
+ <info>[COLOR white][B]Repositorio Disponible en la Fuente Catoal (http://catoal.org)[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR white][B] O.V.N.I:[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ovni</jsonrpc>
+  <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/J8MPfuN.jpg</thumbnail>
+ <info>[COLOR white][B]Addon Tematico Dedicado a Otros Mundos y Visitantes de otros Planetas... Obre los ojos a otros mundos[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR white][B] TESLA[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.Tesla</jsonrpc>
+  <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/7B4yKo8.jpg</thumbnail>
+ <info>[COLOR white][B]La Ciencia y la Fisica al alcance de todos, completo Addon dedicado a la tematica Cientifica que abarca todas las disciplimas cientificas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Mundo [/B][/COLOR][COLOR white][B]Oscuro[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.MundoOscuro</jsonrpc>
+  <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/Nmycnug.jpg</thumbnail>
+ <info>[COLOR white][B]Proximamente...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR red][B] Disponibles en la fuente Catoal:[/B][/COLOR][COLOR white][B] (http://catoal.org)[/B][/COLOR]</title>
+<link>ignorme</link>
+<externallink></externallink>
+<fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/Q8JG5ME.jpg</thumbnail>
+ <info>[COLOR white][B]Estos Addons y muchos mas se encuentran disponibles en la fuente Catoal[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR red][B] Telegram:[/B][/COLOR][COLOR white][B] Grupo (@Catana)[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+<fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/Q8JG5ME.jpg</thumbnail>
+ <info>[COLOR white][B]Entra en el mundo de la Espitualidad, en este Addon Encontraras todo lo necesario para adentrarte en el mundo Espiritual..[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][B] Volver al Menu Principal[/COLOR][/B]</title>
+<utube>cIKj8Le6gb0</utube>
+<fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
+ <info>[COLOR white]Volver al mundo de lo Paranormal...[/COLOR]</title></info>
+</item>
