@@ -208,7 +208,7 @@
 
 
 <item>
-<title>[B][COLOR gold]  Prueba [/COLOR][/B]</title>
+<title>[B][COLOR gold]  Prueba 2 [/COLOR][/B]</title>
  <link>$doregex[makelist]</link>
  
 <regex>
@@ -220,7 +220,7 @@
 <link>$doregex[makelist2]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<a href="(.*?)".*itemprop="episodeNumber">(.*?)</span>(.*?)<]]></expres>
-<page>https://seriesblanco.org/capitulos/cuarto-milenio/</page>
+<page>https://seriesblanco.org/capitulos/expediente-x/</page>
 <cookieJar></cookieJar>
 </regex>
  
