@@ -207,37 +207,3 @@
 
 
 
-<item>
-<title>[B][COLOR gold]  Prueba 2 [/COLOR][/B]</title>
- <link>$doregex[makelist]</link>
- 
-<regex>
-<name>makelist</name>  
-<listrepeat><![CDATA[  
-<title>[B][COLOR lime] - [COLOR white][makelist.param2][/COLOR] - [COLOR greenyellow][makelist.param3][/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist2]</link>  
-]]></listrepeat>
-<expres><![CDATA[<a href="(.*?)".*itemprop="episodeNumber">(.*?)</span>(.*?)<]]></expres>
-<page>https://seriesblanco.org/capitulos/expediente-x/</page>
-<cookieJar></cookieJar>
-</regex>
- 
- 
- 
-<regex>
-  <name>makelist2</name>  
-  <listrepeat><![CDATA[  
-<title>[B][COLOR lime] - [COLOR white][makelist2.param1][/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<urlsolve>[makelist2.param1]</urlsolve>  
-]]></listrepeat>
-<expres><![CDATA[<a class="open-link" data-enlace="(.*?)"]]></expres>
-<page>[makelist.param1]</page>
-<cookieJar></cookieJar>
-</regex>
- 
-<thumbnail></thumbnail>
-</item>
