@@ -208,16 +208,16 @@
 
 
 <item>
-<title>[B][COLOR gold]  -   [COLOR white] Cuarto milenio[/COLOR][/B]</title>
- <link>$doregex[deco]</link>
+<title>[B][COLOR gold]  - [/COLOR][/B]</title>
+ <link>$doregex[magyck]</link>
  
 <regex>
-<name>decosub</name>  
+<name>magyck</name>  
 <listrepeat><![CDATA[  
-<title>[B][COLOR lime] - [COLOR white][deco.param2][/COLOR] - [COLOR greenyellow][deco.param3][/COLOR][/B]</title>
+<title>[B][COLOR lime] - [COLOR white][magyck.param2][/COLOR] - [COLOR greenyellow][magyck.param3][/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>$doregex[deco2]</link>  
+<link>$doregex[magyck2]</link>  
 ]]></listrepeat>
 <expres><![CDATA[<a href="(.*?)".*itemprop="episodeNumber">(.*?)</span>(.*?)<]]></expres>
 <page>https://seriesblanco.org/capitulos/cuarto-milenio/</page>
@@ -227,15 +227,15 @@
  
  
 <regex>
-  <name>deco2</name>  
+  <name>magyck2</name>  
   <listrepeat><![CDATA[  
-<title>[B][COLOR lime] - [COLOR white][deco2.param1][/COLOR][/B]</title>
+<title>[B][COLOR lime] - [COLOR white][magyck2.param1][/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<urlsolve>[deco2.param1]</urlsolve>  
+<urlsolve>[magyck2.param1]</urlsolve>  
 ]]></listrepeat>
 <expres><![CDATA[<a class="open-link" data-enlace="(.*?)"]]></expres>
-<page>[deco.param1]</page>
+<page>[magyck.param1]</page>
 <cookieJar></cookieJar>
 </regex>
  
