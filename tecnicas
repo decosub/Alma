@@ -195,3 +195,39 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/decosub/Alma/master/men.xml</externallink>
 </item>
+
+
+<item>
+<title>[B][COLOR gold]...[/COLOR][/B]</title>
+ <link>$doregex[magyck]</link>
+ 
+<regex>
+<name>magyck</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR lime] - [COLOR white][magyck.param2][/COLOR] - [COLOR greenyellow][magyck.param3][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[magyck2]</link>  
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)".*itemprop="episodeNumber">(.*?)</span>(.*?)<]]></expres>
+<page>https://seriesblanco.org/capitulos/el-cuento-de-la-criada-the-handmaids-tale/</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+  <name>magyck2</name>  
+  <listrepeat><![CDATA[  
+<title>[B][COLOR lime] - [COLOR white][magyck2.param1][/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<urlsolve>[magyck2.param1]</urlsolve>  
+]]></listrepeat>
+<expres><![CDATA[<a class="open-link" data-enlace="(.*?)"]]></expres>
+<page>[magyck.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail></thumbnail>
+</item>
